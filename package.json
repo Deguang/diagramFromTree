@@ -1,0 +1,19 @@
+{
+  "name": "diagramfromtree",
+  "version": "1.0.0",
+  "description": "This is a micro-server that provides a tree structure for generating images.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deguang/diagramFromTree.git"
+  },
+  "author": "Deguang",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Deguang/diagramFromTree/issues"
+  },
+  "homepage": "https://github.com/Deguang/diagramFromTree#readme"
+}
