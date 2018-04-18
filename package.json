@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/Deguang/diagramFromTree/issues"
   },
-  "homepage": "https://github.com/Deguang/diagramFromTree#readme"
+  "homepage": "https://github.com/Deguang/diagramFromTree#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "canvas": "^1.6.10",
+    "express": "^4.16.3",
+    "node-gyp": "^3.6.2"
+  }
 }
